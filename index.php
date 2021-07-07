@@ -4,14 +4,14 @@
 *
 * @package Aquila
 */
- ?>
- <!DOCTYPE html>
- <html lang="en" dir="ltr">
-     <head>
-         <meta charset="utf-8">
-         <title>Wordpress Theme</title>
-     </head>
-     <body>
 
-     </body>
- </html>
+get_header();
+?>
+
+<div class="content">CONTENT
+</div>
+
+<?php
+
+get_footer();
+?>
