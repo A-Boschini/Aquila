@@ -12,8 +12,6 @@
          <title>Wordpress Theme</title>
      </head>
 
-     <body <?php body_class('hello-class'); ?>>
+     <body>
 
-         <?php wp_body_open(); ?>
-
-     <header>HEADER</header>
+        <header>HEADER</header>
