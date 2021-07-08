@@ -1,9 +1,9 @@
 <?php
 /**
-*   Footer Template
+* Footer Template.
 *
-*   @package Aquila
-**/
+* @package Aquila
+*/
  ?>
  <footer>FOOTER</footer>
 </body>

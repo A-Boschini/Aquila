@@ -1,10 +1,9 @@
 <?php
 /**
-*   Header Template
+* Header Template.
 *
-*   @package Aquila
+* @package Aquila
 */
- ?>
  <!DOCTYPE html>
  <html lang="en" dir="ltr">
      <head>
